@@ -1,0 +1,1 @@
+(self.webpackChunkyespace_docs=self.webpackChunkyespace_docs||[]).push([[945],{3190:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/yespace-docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/yespace-docs/blog/tags/hola"}')}}]);
