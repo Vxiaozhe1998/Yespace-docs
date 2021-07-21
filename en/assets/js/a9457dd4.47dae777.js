@@ -1,0 +1,1 @@
+(self.webpackChunkyespace_docs=self.webpackChunkyespace_docs||[]).push([[892],{8588:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/yespace-docs/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog title"}')}}]);
