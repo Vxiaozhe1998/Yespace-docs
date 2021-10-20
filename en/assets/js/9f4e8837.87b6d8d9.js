@@ -1,0 +1,1 @@
+(self.webpackChunkyespace_docs=self.webpackChunkyespace_docs||[]).push([[2985],{8805:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/yespace-docs/en/blog/tags","slug":"/yespace-docs/en/blog/tags/\u5c0f\u60a0\u63a2\u6821","name":"\u5c0f\u60a0\u63a2\u6821","count":2,"permalink":"/yespace-docs/en/blog/tags/\u5c0f\u60a0\u63a2\u6821"}')}}]);
